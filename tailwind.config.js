@@ -20,8 +20,8 @@ export default {
         Inter:"Inter",
         Roboto:["Roboto", "sans-serif"]
       },
-      backgroungImage: {
-        "bg-texture":"url('./assets/bg.png)",
+      backgroundImage: {
+        "bg-texture": "url('./assets/bg.png')",
       }
     },
   },
