@@ -1,3 +1,4 @@
+import Engagement from "./components/Engagement";
 import Navbar from "./components/Navbar";
 import Sidebar from "./components/Sidebar";
 import Statistics from "./components/Statistics";
@@ -19,6 +20,7 @@ function App() {
         {/* column 2 start */}
         <section className="p-4 pb-16 border-bordercolor lg:border-l-2">
           <User />
+          <Engagement />
         </section>
         {/* column 2 end */}
       </main>
