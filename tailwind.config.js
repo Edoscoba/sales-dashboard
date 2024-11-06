@@ -19,6 +19,9 @@ export default {
       fontFamily: {
         Inter:"Inter",
         Roboto:["Roboto", "sans-serif"]
+      },
+      backgroungImage: {
+        "bg-texture":"url('./assets/bg.png)",
       }
     },
   },
